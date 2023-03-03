@@ -25,3 +25,5 @@ Please follow the steps outlined in [Contributing](https://plugins.jetbrains.com
 [jb:slack]: https://plugins.jetbrains.com/slack
 
 [jb:twitter]: https://twitter.com/JBPlatform
+## 说的
+[少时诵诗书所所](topics/intro/welcome.md)
